@@ -26,6 +26,6 @@
 <hr>
 
 <h3 align="left">Most Used Language:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UR-Vansh&show_icons=true&locale=en&layout=compact" alt="falcon-safari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-xplore&show_icons=true&locale=en&layout=compact" alt="falcon-safari" /></p>
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif">
