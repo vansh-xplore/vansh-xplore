@@ -6,6 +6,9 @@
 <hr>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br>
+
 <img alt="Coding" width="450" height="300" src="https://preview.redd.it/i-developed-a-new-game-development-course-on-javascript-v0-4p1z45qks7xb1.gif?width=750&auto=webp&s=7371d4bc8fb6abed70e086f66ebacf3d70005995">
 
 <hr>
