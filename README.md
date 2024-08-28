@@ -7,9 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img alt="Coding" width="450" height="300" src="https://data.textstudio.com/output/sample/animated/9/5/8/4/code-8-14859.gif">
-
-<hr>
 
 - 🌱 I’m currently learning **Python**
 
