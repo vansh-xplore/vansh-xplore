@@ -13,6 +13,12 @@ I'm a passionate Python learner, diving deep into the world of coding, data, and
 
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif">
 
+## 🔗 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vansh.xplore)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vansh45sharma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vansh-xplore)
+
 ## 🛠️ Tools and Technologies
 
 Here are some of the tools and libraries I'm getting familiar with:
