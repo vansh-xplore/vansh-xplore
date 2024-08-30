@@ -1,5 +1,5 @@
 # 🐍 Hello, I'm Vansh Sharma
-<h3>A Passionate Frontend Programmer</h3>
+**`A Passionate Frontend Programmer`**
 
 [![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)](https://rishavchanda.io)
 
@@ -7,6 +7,7 @@
 
 I'm a passionate Python learner, diving deep into the world of coding, data, and automation. I love exploring new libraries and building small projects to sharpen my skills.
 
+- 🎓 Education: B.Sc (Bachelor of Science) in Physics from the University of Delhi (DU)
 - 📚 Currently learning: Advanced Python concepts, including Generators, Decorators, and Data Classes
 - 🎯 Next up: Exploring Web Development with Django, Data Science with Pandas
 - 💬 Ask me about: Python basics, getting started with coding, or simple automation scripts
