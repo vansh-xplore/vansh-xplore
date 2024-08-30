@@ -1,5 +1,5 @@
 # 🐍 Hello, I'm Vansh Sharma
-**`A Passionate Frontend Programmer`**
+**`A Passionate Programmer`**
 
 ![hello world](https://github.com/user-attachments/assets/c0d949d0-f3fa-494e-ac74-57e018a74d33)
 
@@ -16,7 +16,7 @@ I'm a passionate Python learner, diving deep into the world of coding, data, and
 
 Exploring the applications of Python in physics simulations and data analysis.
 
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif">
+<img align="center" src="https://github.com/user-attachments/assets/c5f16b79-06b5-4257-83f2-0ba5de028308">
 
 ## 🔗 Connect with Me
 
