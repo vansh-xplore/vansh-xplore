@@ -1,7 +1,9 @@
 # 🐍 Hello, I'm Vansh Sharma
 **`A Passionate Programmer`**
 
-![hello world](https://github.com/user-attachments/assets/c0d949d0-f3fa-494e-ac74-57e018a74d33)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vansh+Sharma!;" />
+</h1>
 
 ## 🌱 About Me
 
